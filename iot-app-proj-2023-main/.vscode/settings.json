@@ -1,0 +1,17 @@
+{
+    "[javascript][javascriptreact][typescript][typescriptreact]": {
+        "editor.defaultFormatter": "rome.rome",
+        "editor.formatOnSave": true,
+        // For Tailwind CSS IntelliSense
+        "editor.quickSuggestions": {
+            "strings": true,
+        }
+    },
+    "rome.requireConfiguration": true,
+    "tailwindCSS.classAttributes": [
+        "class",
+        "className",
+        "ngClass",
+        "style"
+    ]
+}
